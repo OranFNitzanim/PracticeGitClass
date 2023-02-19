@@ -1,12 +1,14 @@
 print("My Secret  is 1234")
 
 print("Nice Secrert!")
-def plus (a):
-    return a+1
+
+def plus1 (a,b):
+    return a+b
 a=5
 b=7
-print(plus(a))
+print(plus1(a,b))
 
 print("okay the func works")
 
-print("Created new Branch")
+print("Lets see now if its all okay")
+
